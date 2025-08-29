@@ -12,6 +12,6 @@ public class StudentModel {
     }
 
     public int getAge() {
-        return age;
-    }
+        return age;
+    }
 }

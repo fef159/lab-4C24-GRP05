@@ -4,5 +4,5 @@ public class StudentReport {
         System.out.println("Nombre: " + student.getName());
         System.out.println("Edad: " + student.getAge() + " años");
         System.out.println("=================================");
-    }
+        }
 }
