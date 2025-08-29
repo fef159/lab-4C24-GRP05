@@ -30,3 +30,8 @@ Se desarrolla como parte del **Laboratorio de Construcción y Pruebas de Softwar
 1. Compilar los archivos Java:
    ```bash
    javac *.java
+2. Ingresar a la carpeta src:
+   ```bash
+   java StudentController
+
+   
