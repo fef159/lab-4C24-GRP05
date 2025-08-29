@@ -33,5 +33,3 @@ Se desarrolla como parte del **Laboratorio de Construcción y Pruebas de Softwar
 2. Ingresar a la carpeta src:
    ```bash
    java StudentController
-
-   
