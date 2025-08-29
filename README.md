@@ -5,10 +5,9 @@ Proyecto colaborativo en Java usando Git y GitHub.
 ---
 
 ## 👥 Integrantes del grupo
-- Responsable: [Nombre Responsable]
-- Colaborador 1: [Ninahuaman Yuto Anderson]
-- Colaborador 2: [Cohaila Ttito Mathias]
-- Colaborador 3: [Quispe Quezada Abel]
+- Responsable: [Ninahuaman Yuto Anderson]
+- Colaborador 1: [Cohaila Ttito Mathias]
+- Colaborador 2: [Quispe Quezada Abel]
 
 ---
 
